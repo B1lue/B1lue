@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on Python,C
-- 🌱 I’m currently learning IA(Chatbot,machine learning)
+- 🌱 I’m currently learning AI(Chatbot,machine learning)
   
 <div align="center">
   <a href="https://github.com/B1lue">
